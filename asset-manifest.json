@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dad_jokes_app/static/css/main.c203e782.chunk.css",
+    "main.js": "/dad_jokes_app/static/js/main.cc8769a5.chunk.js",
+    "main.js.map": "/dad_jokes_app/static/js/main.cc8769a5.chunk.js.map",
+    "runtime-main.js": "/dad_jokes_app/static/js/runtime-main.8adfa0d8.js",
+    "runtime-main.js.map": "/dad_jokes_app/static/js/runtime-main.8adfa0d8.js.map",
+    "static/js/2.55eafe4d.chunk.js": "/dad_jokes_app/static/js/2.55eafe4d.chunk.js",
+    "static/js/2.55eafe4d.chunk.js.map": "/dad_jokes_app/static/js/2.55eafe4d.chunk.js.map",
+    "static/js/3.091cca48.chunk.js": "/dad_jokes_app/static/js/3.091cca48.chunk.js",
+    "static/js/3.091cca48.chunk.js.map": "/dad_jokes_app/static/js/3.091cca48.chunk.js.map",
+    "index.html": "/dad_jokes_app/index.html",
+    "static/css/main.c203e782.chunk.css.map": "/dad_jokes_app/static/css/main.c203e782.chunk.css.map",
+    "static/js/2.55eafe4d.chunk.js.LICENSE.txt": "/dad_jokes_app/static/js/2.55eafe4d.chunk.js.LICENSE.txt",
+    "static/media/laughing_emoji.cb91e42c.png": "/dad_jokes_app/static/media/laughing_emoji.cb91e42c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8adfa0d8.js",
+    "static/js/2.55eafe4d.chunk.js",
+    "static/css/main.c203e782.chunk.css",
+    "static/js/main.cc8769a5.chunk.js"
+  ]
+}
